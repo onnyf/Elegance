@@ -1,0 +1,44 @@
+.testimonials-container1{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    gap: 50px;
+    position: relative;
+    bottom: 750px;
+   
+   
+
+}
+
+.test{
+padding: 50px; 
+padding-bottom: 600px;
+position:relative;
+bottom: 150px;
+}
+.testimonial2{
+    padding-right: 350px;
+   
+}
+
+.main-t{
+ position:absolute;
+}
+
+.Test-p1{
+ position: relative;
+ bottom: 60px;
+ left: 60px;
+}
+
+.Test-p2{
+    position: relative;
+    bottom: 60px;
+    left: 60px; 
+}
+
+
+.img-dot2{
+position: absolute;
+left: 1200px;
+}
